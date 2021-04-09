@@ -1,2 +1,2 @@
 # Clone Instagram
- Clone Instagram - Bootcamp DIO
+ Atividade proposta no bootcamp da Digital Innovation One
